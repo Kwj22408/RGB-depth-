@@ -6,3 +6,4 @@ getColor是获取1920×1080的rgb数据
 getDepth是获取1920×1080的depth数据
 geipointCloud是获取彩色点云数据
 d2ccloud：将depth数据和color数据转为彩色点云数据，其需要相机的内外参数
+multi_device多相机采集depth和rgb数据
